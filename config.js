@@ -1,6 +1,6 @@
 module.exports = {
   // your community or team name to display on join page.
-  community: process.env.COMMUNITY_NAME || 'CLOUD-SHELL-IGNITE-2017',
+  community: process.env.COMMUNITY_NAME || 'PowerShell Summit 2017',
   // your slack team url (ex: socketio.slack.com)
   slackUrl: process.env.SLACK_URL || 'cloudshellignite2017.slack.com',
   // access token of slack
